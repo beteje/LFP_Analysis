@@ -1,7 +1,8 @@
 # LFP_Analysis
 
-All code can be run from the Start_LFP_Analysis.m file
-All the parameters which need to be set for subsequent analysis are contained in this file
+All code can be run from the Start_LFP_Analysis.m file.
+All the parameters which need to be set for subsequent analysis are contained in this file.
+The code is based upon spike and local field potential data exported from recordings made in Neuroexplorer.
 
 1.	First choose which analysis to perform – for each parameter set to 1 if you want to perform the analysis and 0 if you don’t want to perform the analysis
 
